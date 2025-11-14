@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dd3e27858c9dd7243b5e36698a7aa484
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - groundMaterial: {fileID: 2100000, guid: 2811d1136053dbe40a5e5dd287baa442, type: 2}
+  - groundPlane: {instanceID: 0}
+  - groundTexture: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
