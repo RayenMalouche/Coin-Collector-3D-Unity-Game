@@ -7,21 +7,7 @@
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
 
-# Visual Studio / Rider / VS Code
-*.csproj
-*.unityproj
-*.sln
-*.suo
-*.tmp
-*.user
-*.userprefs
-*.pidb
-*.booproj
-*.svd
-*.pdb
-*.mdb
-*.opendb
-*.VC.db
+
 
 # macOS
 .DS_Store
